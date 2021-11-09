@@ -1,3 +1,5 @@
 flask
 flask-wtf
 ory-hydra-client
+requests
+ldap3
